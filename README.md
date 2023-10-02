@@ -1,7 +1,7 @@
 # Vuejs Landing Page
 
 
-![VueJs_Landing_Page](https://github.com/AlpetGexha/Vuejs-Landing-Page/assets/50520333/eabc981f-8655-4f9d-abf5-da825d31ff02)
+![VueJs_Landing_Page](https://github.com/AlpetGexha/Vuejs-Landing-Page/assets/50520333/f4a959d6-2e52-4455-8368-1d56c8473fdf)
 
 
 ## Project Setup
@@ -14,6 +14,9 @@ npm install
 
 ```sh
 npm run dev
+```
+```sh
+json-server --watch db.json --port 3001
 ```
 
 ### Compile and Minify for Production
